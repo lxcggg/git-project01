@@ -11,5 +11,6 @@ public class App {
         System.out.println("Hello Git! lxc master first modify!");
         System.out.println("Hello Git! lxc master second modify!");
         System.out.println("Hello gitHub! lxc master first push github!");
+        System.out.println("Test fetch from GitHub");
     }
 }
