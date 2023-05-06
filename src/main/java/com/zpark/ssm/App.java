@@ -9,5 +9,6 @@ public class App {
         System.out.println("Hello Git! zza hotfix first commit!");
         System.out.println("Hello Git! lxc hotfix first modify!");
         System.out.println("Hello Git! lxc master first modify!");
+        System.out.println("Hello Git! lxc master second modify!");
     }
 }
